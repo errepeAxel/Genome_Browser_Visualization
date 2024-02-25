@@ -1,4 +1,5 @@
 # Genome Browser Visualization
 Content:
-- Use of IGV.
+- Visualization with IGV.
 - From BAM to SAM.
+- Visualization with the USCS Genome Browser
